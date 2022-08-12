@@ -4,7 +4,7 @@
 * I’m usually/mostly/currently working on Full Stack / MERNStack Web Development.
 * I’m currently learning DSA and competetive coding.
 * I’m looking to collaborate on exciting projects and Hackathons
-* I’m looking for help with Competetive coding & DSA / Placement prep🏫
+<!-- * I’m looking for help with Competetive coding & DSA / Placement prep🏫 -->
 * Ask me about Web Design & Web Development 🕸.
 * Pronouns: he
 <!-- * Fun fact: <em>I can sleep anytime ,anywhere.</em> -->
