@@ -1,13 +1,13 @@
 <h1 align="center"> Hello There 👋 </h1>
 
-* I am [Sarang Yogi](https://www.linkedin.com/in/sarang-yogi-4b98b818b) :blush:	 . Currently I am a Pre Final Year student from SPIT in Information Technology.
+* I am [Sarang Yogi](https://www.linkedin.com/in/sarang-yogi-4b98b818b) :blush:	 . Currently I am a Final Year student from SPIT in Information Technology.
 * I’m usually/mostly/currently working on Full Stack / MERNStack Web Development.
 * I’m currently learning DSA and competetive coding.
 * I’m looking to collaborate on exciting projects and Hackathons
 * I’m looking for help with Competetive coding & DSA / Placement prep🏫
 * Ask me about Web Design & Web Development 🕸.
 * Pronouns: he
-* Fun fact: <em>I can sleep anytime ,anywhere.</em>
+<!-- * Fun fact: <em>I can sleep anytime ,anywhere.</em> -->
 
 <h2> Tech Stack :computer: </h2>
 <br>
@@ -105,7 +105,7 @@
 </table>
 
 <strong><h3> 🌟 Top Languages </h3></strong>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarangyogi&layout=compact&theme=tokyonight)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarangyogi&layout=compact&theme=tokyonight)
 
 <strong><h3> 🌟 GitHub Stats </h3></strong>
 <a align="center" href="https://github.com/sarangyogi">
