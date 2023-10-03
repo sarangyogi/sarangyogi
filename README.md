@@ -1,12 +1,12 @@
 <h1 align="center"> Hello There 👋 </h1>
 
-* I am [Sarang Yogi](https://www.linkedin.com/in/sarang-yogi-4b98b818b) :blush:	 . Currently I am a Final Year student from SPIT in Information Technology.
-* I’m usually/mostly/currently working on Full Stack / MERNStack Web Development.
-* I’m currently learning DSA and competetive coding.
-* I’m looking to collaborate on exciting projects and Hackathons
+- I am [Sarang Yogi](https://www.linkedin.com/in/sarang-yogi-4b98b818b) :blush: . Currently I am a Final Year student from SPIT in Information Technology.
+- I’m usually/mostly/currently working on Full Stack / MERNStack Web Development.
+- I’m currently learning DSA and competetive coding.
+- I’m looking to collaborate on exciting projects and Hackathons
 <!-- * I’m looking for help with Competetive coding & DSA / Placement prep🏫 -->
-* Ask me about Web Design & Web Development 🕸.
-* Pronouns: he
+- Ask me about Web Design & Web Development 🕸.
+- Pronouns: he
 <!-- * Fun fact: <em>I can sleep anytime ,anywhere.</em> -->
 
 <h2> Tech Stack :computer: </h2>
@@ -114,6 +114,8 @@
 <a align="center" href="https://github.com/sarangyogi">
 <img width="49%"  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarangyogi&theme=radical" alt="Git Stats" />
 </a>
+
+[![An image of @sarangyogi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sarangyogi)](https://holopin.io/@sarangyogi)
 
 <h2 align='center'>Connect with me  📫 </h2>
 <p align = 'center'>
